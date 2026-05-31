@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "items": [
+    {
+      "id": "test-1",
+      "title": "Test Videosu",
+      "sourceVideoId": "SRT_ICINDEKI_FILM_ID",
+      "reactionVideoId": "TEPKI_VIDEO_ID",
+      "srtUrl": "https://raw.githubusercontent.com/b1rberry/berixbera-sync-data/main/srt/TEPKI_VIDEO_ID.srt"
+    }
+  ]
+}
